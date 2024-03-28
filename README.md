@@ -1,5 +1,5 @@
-# Data pipeline
-<h1 align="center">Bài tập thực hành về ETL VÀ ELT data</h1>
+
+<h1 align="center">ETL VÀ ELT data</h1>
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Vo Nguyen Thanh Tu</h1>
 
